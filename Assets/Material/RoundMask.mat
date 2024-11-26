@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RoundMask
-  m_Shader: {fileID: 4800000, guid: 69704e714f584443f8f4bad27797ab47, type: 3}
+  m_Shader: {fileID: 4800000, guid: c8c985d4351ba4cb7b3e64e92f40f301, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissolveTex:
-        m_Texture: {fileID: 2800000, guid: 41717273565264703b1bbe548b36ed37, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1ef69da5701ef400c947afc3236edf27, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -46,10 +46,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorMask: 15
-    - _DissolveThreshold: 1
+    - _DissolveThreshold: 0
     - _EnableExternalAlpha: 0
     - _Height: 100
-    - _RoundRadius: 0.171
+    - _RoundRadius: 0.099
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0

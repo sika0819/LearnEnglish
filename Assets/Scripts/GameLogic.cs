@@ -109,6 +109,8 @@ public class GameLogic : MonoBehaviour
             clickTimes = 0;
             if(!isConrrect){
                 DelectedAll();
+            }else{
+                Debug.Log("Game Success!");
             }
         }
     }
